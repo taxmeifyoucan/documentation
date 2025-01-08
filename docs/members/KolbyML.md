@@ -1,7 +1,12 @@
-Name: Kolby Moroz Liebl
+
+## Kolby Moroz Liebl
 Multiplier: 1
+
 Github: [@KolbyML](https://github.com/KolbyML)
+
 Team: Portal Network (EF)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

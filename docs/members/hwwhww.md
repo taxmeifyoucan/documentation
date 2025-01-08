@@ -1,7 +1,12 @@
-Name: Hsiao-Wei Wang
+
+## Hsiao-Wei Wang
 Multiplier: 1
+
 Github: [@hwwhww](https://github.com/hwwhww)
+
 Team: Consensus R&D (EF)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

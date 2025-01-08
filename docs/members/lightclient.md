@@ -1,7 +1,12 @@
-Name: Matt Garnett
+
+## Matt Garnett
 Multiplier: 1
+
 Github: [@lightclient](https://github.com/lightclient)
+
 Team: Geth
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

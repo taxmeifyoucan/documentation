@@ -1,7 +1,12 @@
-Name: Daniel Lehrner
+
+## Daniel Lehrner
 Multiplier: 1
+
 Github: [@daniellehrner](https://github.com/daniellehrner)
+
 Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Adaniellehrner)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

@@ -1,7 +1,12 @@
-Name: Milos Stankovic
+
+## Milos Stankovic
 Multiplier: 1
+
 Github: [@morph-dev](https://github.com/morph-dev)
+
 Team: Portal Network (EF)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

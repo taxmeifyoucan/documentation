@@ -1,7 +1,12 @@
-Name: James He
+
+## James He
 Multiplier: 1
+
 Github: [@james-prysm](https://github.com/james-prysm)
+
 Team: [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prysm)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

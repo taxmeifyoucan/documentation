@@ -1,7 +1,12 @@
-Name: Jose Hugo de la cruz Romero
+
+## Jose Hugo de la cruz Romero
 Multiplier: 0.5
+
 Github: [@hugo-dc](https://github.com/hugo-dc)
+
 Team: Ipsilon
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

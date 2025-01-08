@@ -1,7 +1,12 @@
-Name: Arantxa Zapico
+
+## Arantxa Zapico
 Multiplier: 1
+
 Github: [@research](https://github.com/research)
+
 Team: Cryptography (EF)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

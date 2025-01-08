@@ -1,7 +1,12 @@
-Name: Daniel Celeda
+
+## Daniel Celeda
 Multiplier: 1
+
 Github: [@dceleda](https://github.com/dceleda)
+
 Team: Nethermind
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

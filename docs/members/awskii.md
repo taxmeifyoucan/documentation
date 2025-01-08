@@ -1,7 +1,12 @@
-Name: Artem Tsebrovskii
+
+## Artem Tsebrovskii
 Multiplier: 1
+
 Github: [@awskii](https://github.com/awskii)
+
 Team: Erigon
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

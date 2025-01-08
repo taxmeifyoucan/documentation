@@ -1,7 +1,12 @@
-Name: Alex Beregszaszi
+
+## Alex Beregszaszi
 Multiplier: 0.5
+
 Github: [@axic](https://github.com/axic)
+
 Team: Ipsilon
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

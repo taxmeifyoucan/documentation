@@ -1,7 +1,12 @@
-Name: Bhargava Shastry
+
+## Bhargava Shastry
 Multiplier: 1
+
 Github: [@bshastry](https://github.com/bshastry)
+
 Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security/)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

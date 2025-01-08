@@ -1,7 +1,12 @@
-Name: Jason Carver
+
+## Jason Carver
 Multiplier: 1
+
 Github: [@carver](https://github.com/carver)
+
 Team: Portal Network (EF)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

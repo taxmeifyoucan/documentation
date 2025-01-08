@@ -1,7 +1,12 @@
-Name: Parithosh Jayanthi
+
+## Parithosh Jayanthi
 Multiplier: 1
+
 Github: [@parithosh](https://github.com/parithosh)
+
 Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

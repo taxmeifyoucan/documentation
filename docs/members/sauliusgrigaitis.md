@@ -1,7 +1,12 @@
-Name: Saulius Grigaitis
+
+## Saulius Grigaitis
 Multiplier: 1
+
 Github: [@sauliusgrigaitis](https://github.com/sauliusgrigaitis)
+
 Team: Grandine
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

@@ -1,7 +1,12 @@
-Name: Barnabas Busa
+
+## Barnabas Busa
 Multiplier: 1
+
 Github: [@barnabasbusa](https://github.com/barnabasbusa)
+
 Team: [ethPandaOps](https://github.com/ethpandaops)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

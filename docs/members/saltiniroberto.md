@@ -1,7 +1,12 @@
-Name: Roberto Saltini
+
+## Roberto Saltini
 Multiplier: 1
+
 Github: [@saltiniroberto](https://github.com/saltiniroberto)
+
 Team: Dependable Distributed Systems (DDS)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

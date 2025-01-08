@@ -1,7 +1,12 @@
-Name: Carlos Bermudez Porto
+
+## Carlos Bermudez Porto
 Multiplier: 0.5
+
 Github: [@cbermudez97](https://github.com/cbermudez97)
+
 Team: [NethermindEth contributions](https://github.com/cbermudez97?org=NethermindEth), [NethermindEth/nethermind
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

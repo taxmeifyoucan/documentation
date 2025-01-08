@@ -1,7 +1,12 @@
-Name: DaniPopes
+
+## DaniPopes
 Multiplier: 0.5
+
 Github: [@DaniPopes](https://github.com/DaniPopes)
+
 Team: Reth
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

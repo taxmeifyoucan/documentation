@@ -1,7 +1,12 @@
-Name: Tim Beiko
+
+## Tim Beiko
 Multiplier: 1
+
 Github: [@timbeiko](https://github.com/timbeiko)
+
 Team: [ethereum/pm](https://github.com/ethereum/pm)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

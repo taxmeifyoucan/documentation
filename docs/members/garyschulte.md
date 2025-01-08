@@ -1,7 +1,12 @@
-Name: Gary Schulte
+
+## Gary Schulte
 Multiplier: 1
+
 Github: [@garyschulte](https://github.com/garyschulte)
+
 Team: [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Agaryschulte)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

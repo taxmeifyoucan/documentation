@@ -1,7 +1,12 @@
-Name: Mark Simkin
+
+## Mark Simkin
 Multiplier: 1
+
 Github: [@msimkin.github.io](https://github.com/msimkin.github.io)
+
 Team: [research](https://github.com/msimkin/pglanding-mark/blob/main/README.md)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

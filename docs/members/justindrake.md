@@ -1,7 +1,12 @@
-Name: Justin Drake
+
+## Justin Drake
 Multiplier: 1
+
 Github: [@justindrake](https://github.com/justindrake)
+
 Team: Consensus R&D (EF)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

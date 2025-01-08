@@ -1,7 +1,12 @@
-Name: Ayman Bouchareb
+
+## Ayman Bouchareb
 Multiplier: 1
+
 Github: [@Demuirgos](https://github.com/Demuirgos)
+
 Team: Nethermind
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

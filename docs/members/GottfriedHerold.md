@@ -1,7 +1,12 @@
-Name: Gottfried Herold
+
+## Gottfried Herold
 Multiplier: 1
+
 Github: [@GottfriedHerold](https://github.com/GottfriedHerold)
+
 Team: Consensus R&D (EF)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

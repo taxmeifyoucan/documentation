@@ -1,7 +1,12 @@
-Name: Scotty Poi
+
+## Scotty Poi
 Multiplier: 1
+
 Github: [@ScottyPoi](https://github.com/ScottyPoi)
+
 Team: EthereumJS
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

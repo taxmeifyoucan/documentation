@@ -1,7 +1,12 @@
-Name: Davide Crapis
+
+## Davide Crapis
 Multiplier: 0.5
+
 Github: [@dcrapis](https://github.com/dcrapis)
+
 Team: Robust Incentives Group (RIG)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

@@ -1,7 +1,12 @@
-Name: Jorge Mederos
+
+## Jorge Mederos
 Multiplier: 0.5
+
 Github: [@jmederosalvarado](https://github.com/jmederosalvarado)
+
 Team: Nethermind
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

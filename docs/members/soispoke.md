@@ -1,7 +1,12 @@
-Name: Thomas Thiery
+
+## Thomas Thiery
 Multiplier: 1
+
 Github: [@soispoke](https://github.com/soispoke)
+
 Team: [ethresearch](https://ethresear.ch/u/soispoke/summary/)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

@@ -1,7 +1,12 @@
-Name: Yoav Weiss
+
+## Yoav Weiss
 Multiplier: 1
+
 Github: [@yoavw](https://github.com/yoavw)
+
 Team: [ethereum/protocol-security](https://github.com/ethereum/protocol-security/)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

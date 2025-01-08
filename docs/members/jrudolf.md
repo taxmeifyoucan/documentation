@@ -1,7 +1,12 @@
-Name: Josh Rudolf
+
+## Josh Rudolf
 Multiplier: 1
+
 Github: [@jrudolf](https://github.com/jrudolf)
+
 Team: Stateless Consensus
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

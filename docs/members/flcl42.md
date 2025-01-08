@@ -1,7 +1,12 @@
-Name: Alexey Osipov
+
+## Alexey Osipov
 Multiplier: 1
+
 Github: [@flcl42](https://github.com/flcl42)
+
 Team: [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth), [NethermindEth/nethermind
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

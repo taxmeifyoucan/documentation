@@ -1,7 +1,12 @@
-Name: Mac Ladson
+
+## Mac Ladson
 Multiplier: 1
+
 Github: [@macladson](https://github.com/macladson)
+
 Team: [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacladson)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+

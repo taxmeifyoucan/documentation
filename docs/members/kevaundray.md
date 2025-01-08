@@ -1,7 +1,12 @@
-Name: Kevaundray Wedderburn
+
+## Kevaundray Wedderburn
 Multiplier: 1
+
 Github: [@kevaundray](https://github.com/kevaundray)
+
 Team: Consensus R&D (EF)
 
 ## Contributions
-### Q42024
+
+### Q4 2024
+
