@@ -1,0 +1,7 @@
+Name: Nick Gheorghita
+Multiplier: 1
+Github: [@njgheorghita](https://github.com/njgheorghita)
+Team: Portal Network (EF)
+
+## Contributions
+### Q42024
